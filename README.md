@@ -1,5 +1,10 @@
-Workman keyboard layouts
+Workman keyboard layouts + Pythonistas Layout
 ========================
+
+> Added Pythonistas Layout😍 
+1. switch `:` - `;`
+3. switch `[]` - `{}`
+4. switch `_` -> `/` -> `|` 
 
 Workman keyboard layout originally proposed by OJ Bucao at https://workmanlayout.org.
 
